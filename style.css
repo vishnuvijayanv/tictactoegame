@@ -11,10 +11,6 @@
   html {
     font-size: 16px;
   }
-  h1{
-      color:white;
-
-  }
   .wrapper {
     position: absolute;
     transform: translate(-50%, -50%);
